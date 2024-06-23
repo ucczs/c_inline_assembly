@@ -1,2 +1,2 @@
 # c_inline_assembly
-Hello World in C with inline assembly and no standard library functions
+Hello World in C with inline assembly and no standard library functions for x86
